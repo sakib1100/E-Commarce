@@ -1,0 +1,8 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.total{
+    font-weight: bold;
+    font-size: 17px;
+}
